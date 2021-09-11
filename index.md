@@ -49,13 +49,13 @@ __Frost__, Manchester, UK
 __British Broadcasting Corporation__, Manchester, UK
 
 - **Principal Software Engineer**
-- Helped with the engineering effort for the next-generation envoy based proxy for the rest of the BBC.
+Helped with the engineering effort for the next-generation envoy based proxy for the rest of the BBC.
 
 - **Product Owner**
-- Managed the API Management product.
+Managed the API Management product.
 
 - **Senior Software Engineer**
-- Involved in the full software lifecycle of the API Management proxy built in Node.js for the rest of the BBC. 
+Involved in the full software lifecycle of the API Management proxy built in Node.js for the rest of the BBC. 
 
 `2011-2014`
 __Liverpool Football Club__, Liverpool, UK
