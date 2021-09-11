@@ -10,23 +10,19 @@ Engineer, Explorer, Leader
 | <a href="http://github.com/RafalJachimczyk">My github profile</a>
 </div>
 
-
 ## Currently
 
 Balancing the business value with engineering excellence
 
-
-### Specialized in
+## Specialized in
 
 Software Engineering, XP, AWS, Node.js, Go, CI/CD, Automation, 
-
 
 ## Education
 
 `2008-2011`
 __John Moores University, Liverpool, UK.__
 - Bachelor of Science in Software Engineering
-
 
 ## Speaker at conferences
 
