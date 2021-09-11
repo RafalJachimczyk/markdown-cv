@@ -50,8 +50,10 @@ __British Broadcasting Corporation__, Manchester, UK
 
 - **Principal Software Engineer**
 - Helped with the engineering effort for the next-generation envoy based proxy for the rest of the BBC.
+
 - **Product Owner**
 - Managed the API Management product.
+
 - **Senior Software Engineer**
 - Involved in the full software lifecycle of the API Management proxy built in Node.js for the rest of the BBC. 
 
