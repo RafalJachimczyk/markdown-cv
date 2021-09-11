@@ -16,7 +16,7 @@ Balancing the business value with engineering excellence
 
 ## Specialized in
 
-Software Engineering, XP, AWS, Node.js, Go, CI/CD, Automation
+Software Engineering, TDD, Pair Programming, AWS, Node.js, Go, CI/CD, Automation, Observability
 
 ## Education
 
@@ -60,7 +60,7 @@ __British Broadcasting Corporation__, Manchester, UK
 __Liverpool Football Club__, Liverpool, UK
 
 - Software Engineer
-- In-house software engineer for one of the most famous footbal clubs in the world.
+- In-house software engineer for one of the most famous football clubs in the world.
 
 
 ### Current interests
