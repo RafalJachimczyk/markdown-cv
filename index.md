@@ -1,5 +1,5 @@
 ---
-layout: davewhipp
+layout: cv
 title: Isaac Newtons's CV
 ---
 # Isaac Newton
