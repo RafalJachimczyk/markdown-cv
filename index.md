@@ -16,9 +16,9 @@ Engineer, Explorer, Leader
 Balancing the business value with engineering excellence
 
 
-### Current interests
+### Specialized in
 
-Merging the virtual and physical worlds with IoT and Electronics
+Software Engineering, XP, AWS, Node.js, Go, CI/CD, Automation, 
 
 
 ## Education
@@ -66,14 +66,14 @@ __Liverpool Football Club__, Liverpool, UK
 - In-house software engineer for one of the most famous footbal clubs in the world. 
 
 
+### Current interests
+
+Merging the virtual and physical worlds with IoT and Electronics
+
+
 ### Hobbies
 
 Travelling the unbeaten paths, gardening, technology
-
-
-### Specialized in
-
-Software Engineering, XP, AWS, Node.js, Go, CI/CD, Automation, 
 
 <!-- ### Footer
 
