@@ -28,7 +28,6 @@ __John Moores University, Liverpool, UK.__
 
 `2018`
 *[Evolution of API Management at British Broadcasting Corporation](https://www.youtube.com/watch?v=mKMM-rLXwzo&ab_channel=NordicAPIs)*, Nordic APIs, Stockholm, Sweden
-- [youtube.com/watch?v=mKMM-rLXwzo&ab_channel=NordicAPIs](https://www.youtube.com/watch?v=mKMM-rLXwzo&ab_channel=NordicAPIs)
 
 ## Occupation
 
