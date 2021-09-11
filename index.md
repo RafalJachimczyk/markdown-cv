@@ -1,91 +1,71 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rafał Jachimczyk's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Rafał Jachimczyk
+Engineer, Explorer, Leader
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rafal@jachimczyk.com">rafal@jachimczyk.com</a>
+| <a href="http://github.com/RafalJachimczyk">My github profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Balancing the business value with engineering excellence
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software Engineering, XP, AWS, Node.js, Go, CI/CD, Automation, 
 
 
-### Research interests
+### Current interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Merging the virtual and physical worlds with IoT and Electronics
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2008-2011`
+__John Moores University, Liverpool, UK.__
+- Bachelor of Science in Software Engineering
 
 
+## Speaker at conferences
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2018`
+*Evolution of API Management at British Broadcasting Corporation*, Nordic APIs, Stockholm, Sweden
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2021-present`
+__Frost__, Manchester, UK
 
-- Warden
-- Minted coins
+- Head of Software Engineering
+- Delivering the software required for a very early phase FinTech startup.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2014-2021`
+__British Broadcasting Corporation__, Manchester, UK
 
+- Principal Software Engineer
+- Helped with the engineering effort for the next-generation envoy based proxy for the rest of the BBC.
+
+- Product Owner
+- Managed the API Management product.
+
+- Senior Software Engineer
+- Involved in the full software lifecycle of the API Management proxy built in Node.js for the rest of the BBC. 
+
+`2011-2014`
+__Liverpool Football Club__, Liverpool, UK
+
+- Software Engineer
+- In-house software engineer for one of the most famous footbal clubs in the world. 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2021 -->
 
 
