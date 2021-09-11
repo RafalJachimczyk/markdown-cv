@@ -45,17 +45,23 @@ __Frost__, Manchester, UK
 - Head of Software Engineering
 - Delivering the software required for a very early phase FinTech startup.
 
-`2014-2021`
+`2018-2021`
 __British Broadcasting Corporation__, Manchester, UK
 
-- **Principal Software Engineer**
-Helped with the engineering effort for the next-generation envoy based proxy for the rest of the BBC.
+- Principal Software Engineer
+- Helped with the engineering effort for the next-generation envoy based proxy for the rest of the BBC.
 
-- **Product Owner**
-Managed the API Management product.
+`2015-2018`
+__British Broadcasting Corporation__, Manchester, UK
 
-- **Senior Software Engineer**
-Involved in the full software lifecycle of the API Management proxy built in Node.js for the rest of the BBC. 
+- Product Owner
+- Managed the API Management product.
+
+`2014-2015`
+__British Broadcasting Corporation__, Manchester, UK
+
+- Senior Software Engineer
+- Involved in the full software lifecycle of the API Management proxy built in Node.js for the rest of the BBC. 
 
 `2011-2014`
 __Liverpool Football Club__, Liverpool, UK
@@ -63,6 +69,9 @@ __Liverpool Football Club__, Liverpool, UK
 - Software Engineer
 - In-house software engineer for one of the most famous footbal clubs in the world. 
 
+### Hobbies
+
+Travelling the unbeaten paths, gardening, technology
 
 <!-- ### Footer
 
