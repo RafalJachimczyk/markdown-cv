@@ -27,7 +27,8 @@ __John Moores University, Liverpool, UK.__
 ## Speaker at conferences
 
 `2018`
-*[Evolution of API Management at British Broadcasting Corporation](https://www.youtube.com/watch?v=mKMM-rLXwzo&ab_channel=NordicAPIs)*, Nordic APIs, Stockholm, Sweden
+*[Evolution of API Management at British Broadcasting Corporation](https://www.youtube.com/watch?v=mKMM-rLXwzo&ab_channel=NordicAPIs)*, Nordic APIs
+- Stockholm, Sweden
 
 ## Occupation
 
