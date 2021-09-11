@@ -3,7 +3,7 @@ layout: cv
 title: Rafał Jachimczyk's CV
 ---
 # Rafał Jachimczyk
-Engineer, Explorer, Leader
+Engineer, Leader, Explorer
 
 <div id="webaddress">
 <a href="rafal@jachimczyk.com">rafal@jachimczyk.com</a>
@@ -16,7 +16,7 @@ Balancing the business value with engineering excellence
 
 ## Specialized in
 
-Software Engineering, XP, AWS, Node.js, Go, CI/CD, Automation, 
+Software Engineering, XP, AWS, Node.js, Go, CI/CD, Automation
 
 ## Education
 
@@ -40,26 +40,26 @@ __Frost__, Manchester, UK
 `2018-2021`
 __British Broadcasting Corporation__, Manchester, UK
 
-- Principal Software Engineer
-- Helped with the engineering effort for the next-generation envoy based proxy for the rest of the BBC.
+- Principal Software Engineer, *API Management*
+- Built the next-generation envoy based sidecard proxy for the rest of the BBC
 
 `2015-2018`
 __British Broadcasting Corporation__, Manchester, UK
 
-- Product Owner
-- Managed the API Management product.
+- Product Owner, *API Management*
+- Provided the technical leadership and governance to support BBC’s API Management strategy
 
 `2014-2015`
 __British Broadcasting Corporation__, Manchester, UK
 
-- Senior Software Engineer
-- Involved in the full software lifecycle of the API Management proxy built in Node.js for the rest of the BBC. 
+- Senior Software Engineer, *API Management*
+- Involved in the full software lifecycle of the proxy built in Node.js for the rest of the BBC
 
 `2011-2014`
 __Liverpool Football Club__, Liverpool, UK
 
 - Software Engineer
-- In-house software engineer for one of the most famous footbal clubs in the world. 
+- In-house software engineer for one of the most famous footbal clubs in the world
 
 
 ### Current interests
